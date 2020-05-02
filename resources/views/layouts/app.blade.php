@@ -351,7 +351,7 @@
                       Fax: 718.622.8030<br>
                       gentalpro@info.com</p>
 
-                      <div class="btn custom-nv w-50">Map & Directions</div>
+                    
 
 
                   </div>
