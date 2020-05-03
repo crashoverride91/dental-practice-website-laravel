@@ -7,9 +7,9 @@
  <!-- Contacts-->
  <div class="container">
 
-    <div class="row custom-bg customtx">
+    <div class="row custom-bg customtx mt-4">
 
-          <div class="col-12 col-lg 6 text-center">
+          <div class="col-12 col-lg 6 text-center mt-3">
             
             <h2 class="text-center py-3 text-uppercase"> CONTACT US </h2>
             
@@ -82,7 +82,7 @@
           </div>
 
 
-          <div class="col-lg-6 col-md-6 my-3 custom-nv p-5">
+          <div class="col-lg-6 col-md-6 my-3 custom-nv p-5 rounded">
 
             <form>
               <div class="form-group">
@@ -101,12 +101,12 @@
               </div>
               
               <div class="form-group">
-                <label for="exampleFormControlTextarea1">Your request</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                <label for="exampleFormControlTextarea1">Request</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="More informations" rows="3"></textarea>
               </div>
               
               <div class="text-center">
-              <div class="btn btn-danger w-50 ">Send</div></a>
+              <div class="btn btn-danger w-50 ">Submit</div></a>
             </div>
             </form>
 

@@ -5,11 +5,11 @@
 
 
  <!-- Services-->
- <section class="custom-nv2 page-section" id="services">
-    <div class="container">
-        <h2 class="text-center mt-0 text-white py-3 text-uppercase"> Services</h2>
+ <section class="custom-nv3 page-section" id="services">
+    <div class="container-fluid">
+        <h2 class="text-center mt-0 text-white py-1 text-uppercase"> Services</h2>
 
-        <div class="row text-white py-4 text-white">
+        <div class="row text-white py-2text-white">
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="mt-5">
                     <i class="fas fa-4x fa-user-nurse  mb-4"></i>
@@ -37,7 +37,7 @@
                 <div class="mt-5">
                     <i class="fas fa-4x fa-heart mb-4"></i>
                     <h3 class="h4 mb-2">Cosmetic Dentistry</h3>
-                    <p class="text-white mb-0">f your teeth are stained, discolored, worn, chipped, broken, misaligned, misshapen, or have gaps between them, modern cosmetic dentistry can give you a better smile. A “smile makeover” improves the appearance of your smile through one or more cosmetic dentistry procedures.</p>
+                    <p class="text-white mb-0">If your teeth are stained, discolored, worn, chipped, broken, misaligned, misshapen, or have gaps between them, modern cosmetic dentistry can give you a better smile. A “smile makeover” improves the appearance of your smile through one or more cosmetic dentistry procedures.</p>
                 </div>
             </div>
         </div>
@@ -48,11 +48,12 @@
 <section class=" py-5 offer text-white">
     <div class="container text-center">
         <h2 class="mb-4">
-            We offer tooth cleaning for children.
+            We offer tooth cleaning FREE for children.
             Gental Pro is waiting for you!</h2>
         <a class="btn btn-light btn-xl" href="">REQUEST AN APPOINTMENT</a>
     </div>
 </section>
+
 
 
 

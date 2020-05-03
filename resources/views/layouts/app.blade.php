@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Gental Pro - Studio Dentistico </title>
+        <title>Gental Pro - Dental Practice </title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -33,11 +33,27 @@
             .custom-nv2{
 
 
-                background:linear-gradient(rgba(8, 197, 159, 0.9),rgba(8, 133, 152, 0.6));
+                background:linear-gradient(rgba(94, 250, 219, 0.836),rgba(9, 190, 154, 0.87));
 
 
         }
 
+
+     .custom-nv3 {
+
+      background:linear-gradient(rgba(94, 250, 219, 0.836),rgba(9, 190, 154, 0.87)), url('https://benefitsbridge.unitedconcordia.com/wp-content/uploads/2018/05/peoplemedicinestomatolog_559203.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+     }
+
+     .custom-nv4{
+
+      background:linear-gradient(rgba(94, 250, 219, 0.836),rgba(9, 190, 154, 0.87)), url('https://benefitsbridge.unitedconcordia.com/wp-content/uploads/2018/05/peoplemedicinestomatolog_559203.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+
+     }
+       
     
 
 
