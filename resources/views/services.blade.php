@@ -45,7 +45,7 @@
 </section>
 
 <!-- Call to action-->
-<section class=" py-5 offer text-white">
+<section class=" py-5 my-1 offer text-white">
     <div class="container text-center">
         <h2 class="mb-4">
             We offer tooth cleaning FREE for children.
