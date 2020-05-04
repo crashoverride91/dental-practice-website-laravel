@@ -13,22 +13,22 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-//Rotta Home Welcome 2
+//Route  Home 
 Route::get('/','FrontendController@homepage') ->name('homepage');
 
-//Rotta About
+//Route About
 Route::get('/team', 'FrontendController@team')->name('team');
 
-//Rotta Services 
+//Route Services 
 Route::get('/services', 'FrontendController@services')->name('services');
 
-//Rotta Technology
+//Route Technology
 Route::get('/technology', 'FrontendController@technology')->name('technology');
 
-//Rotta Contacts
+//Route Contacts
 Route::get('/contacts', 'FrontendController@contacts')->name('contacts');
 
-Route::get('/navbar', 'FrontendController@navbar')->name('navbar');
+
 
 
 

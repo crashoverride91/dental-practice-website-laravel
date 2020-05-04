@@ -9,12 +9,12 @@
     <div class="container-fluid">
         <h2 class="text-center mt-0 text-white py-1 text-uppercase"> Services</h2>
 
-        <div class="row text-white py-2text-white">
+        <div class="row text-white py-2 text-white">
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="mt-5">
                     <i class="fas fa-4x fa-user-nurse  mb-4"></i>
                     <h3 class="h4 mb-2">Dental Procedures</h3>
-                    <p class="text-white mb-0 ">It turns out that if a person has a dental problem, it can probably be fixed with one of the five treatments.
+                    <p class="text-white mb-0">It turns out that if a person has a dental problem, it can probably be fixed with one of the five treatments.
                       If you are just wondering about what goes on at the dentist’s or you have a toothache, this article has you covered.
                     </p>
                 </div>

@@ -52,10 +52,10 @@ class FrontendController extends Controller
         
             ["name"=>"Intraoral camera", "description"=>"LFor early detection and accurate representation of dental conditions, an intraoral camera is essential to delivering optimum quality of care.", "img"=>"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjXP1Z_UyfRlcKxzmlrb0l0UhGJFJk__zZl9qNrz3RbisjBkWT&usqp=CAU"],
         
-            ["name"=>"Implant 3D", "description"=>"Implant 3D is a software that allows you to perform three-dimensional implant simulation directly on your personal computer.", "img"=>"https://knoxvillesmiles.com/wp-content/uploads/sites/392/2019/11/3d-imaging-dental-implants.jpg.optimal.jpg"],
+            ["name"=>"Implant 3D", "description"=>"Implant 3D is a software that allows you to perform three-dimensional implant simulation directly on your personal computer.", "img"=>"https://necdentallab.com/uploads/article/image/31/IMG-dental-implant-GettyImages-931130140.jpg"],
         
         
-            ["name"=>"Ict Injection", "description"=>"Ict injection is one of the devices used in the study of Dr. Tenti in the province of Varese for dental care: dental problems can be of various kinds, both functional and aesthetic.",  "img"=>"https://img.medicalexpo.it/images_me/photo-g/72062-8304139.jpg"],
+            ["name"=>"Ict Injection", "description"=>"Ict injection is one of the devices used in the study of Dr. Tenti in the province of Varese for dental care: dental problems can be of various kinds, both functional and aesthetic.",  "img"=>"https://www.studiotenti.com/images/articoli/ict-injection.jpg"],
             
             ["name"=>"Diodi Laser", "description"=>"
             The diode laser is an incredibly valuable resource on the dental treatment front, including those of a certain complexity such as implant surgery, but also in endodontics, biostimulation.", "img"=>" https://esthetichairturkey.com/media/article/1528141295560-dental-laser.jpg.1002x0_q90.jpg"],

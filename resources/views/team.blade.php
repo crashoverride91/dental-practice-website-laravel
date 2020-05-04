@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
+
+<!--Team-->
     
 <section class="page-section custom-bg customtx" id="team">
     <div class="container-fluid">

@@ -101,7 +101,7 @@
               </div>
               
               <div class="form-group">
-                <label for="exampleFormControlTextarea1">Request</label>
+                <label for="exampleFormControlTextarea1">Message</label>
                 <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="More informations" rows="3"></textarea>
               </div>
               

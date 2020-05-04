@@ -1,4 +1,3 @@
-<!--Footer-->
 
 
 <!-- Footer-->
@@ -7,10 +6,11 @@
       <div class="row ">
      
          <div class="col-5 col-lg-4 text-white">
-             <p class="h5 text-dark">Gental Pro</p>
+             <p class="h5 text-white">Gental Pro</p>
+             <hr>
              <p>W 56th St</p>
              <p>Brooklyn, NY 11238 USA </p>
- 
+    
              <p class="h6 mt-2">Contacts</p>
              <a hred=""><p>gentalpro@info.com</p></a>
              <p>Phone: 718.622.8020</p>
@@ -22,7 +22,8 @@
  
  
          <div class="col-5 col-lg-4">
-             <p class="h5 text-dark">Site Map</p>
+             <p class="h5 text-white">Site Map</p>
+             <hr>
              <a href="" class="text-decoration-none text-white"><p>Team</p></a>
              <a href="" class="text-decoration-none text-white"><p>Services</p></a>
              <a href="" class="text-decoration-none text-white"><p>Technology</p></a>
@@ -34,7 +35,8 @@
  
  
          <div class="col-6 col-lg-4">
-             <p class="h5 text-bgcustom">Follow us</p>
+             <p class="h5 text-bgcustom text-white">Follow us</p>
+             <hr>
          <div class="h3">
              <a href="https://www.facebook.com/" class="text-decoration-none"><i class="fab fa-facebook-square text-white"></i> </a>
              <a href="https://twitter.com/" class="text-decoration-none"><i class="fab fa-twitter-square text-white"></i></a>
