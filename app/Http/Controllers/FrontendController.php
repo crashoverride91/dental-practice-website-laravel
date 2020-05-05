@@ -92,4 +92,23 @@ class FrontendController extends Controller
         return view('navbar');
     }
 
+    public function submit(Request $request){
+
+        $name = $request->input('name');
+        $email = $request->input('email');
+        $phone = $request->input('phone');
+        $contatto = compact('name', 'email', 'phone');
+        
+
+        return redirect (route('thankyou'));
+
+    }
+
+
+    public function thankyou(){
+
+    return view ('contacts.thankyou');
+
+    }
+
 }

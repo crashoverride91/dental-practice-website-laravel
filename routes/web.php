@@ -29,6 +29,15 @@ Route::get('/technology', 'FrontendController@technology')->name('technology');
 Route::get('/contacts', 'FrontendController@contacts')->name('contacts');
 
 
+//Rotta per prendere i dati
+Route::post('/contacts/submit', 'FrontendController@submit')->name('submit');
+//Rotta di reindirizzamento
+Route::get('/contacts/thankyou', 'FrontendController@thankyou')->name('thankyou');
+
+
+
+
+
 
 
 
