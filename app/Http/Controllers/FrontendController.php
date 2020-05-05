@@ -2,7 +2,9 @@
 
 namespace App\Http\Controllers;
 
+use App\Mail\ContactReceived;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 
 class FrontendController extends Controller
 {
@@ -97,10 +99,15 @@ class FrontendController extends Controller
         $name = $request->input('name');
         $email = $request->input('email');
         $phone = $request->input('phone');
-        $contatto = compact('name', 'email', 'phone');
+        $message = $request->input('message');
+        $contact = compact('name', 'email', 'phone','message');
+
+        //questo invierà l'email
+        Mail::to('gentalprodentist@info.com')->send(new ContactReceived($contact));
         
 
         return redirect (route('thankyou'));
+       
 
     }
 
