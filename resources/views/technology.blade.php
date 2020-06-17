@@ -6,7 +6,7 @@
       
 
 
-<div class="container-fluid page-section customtx ">
+<div class="container page-section customtx ">
     
     <div class="row justify-content-center custom-bg">
 

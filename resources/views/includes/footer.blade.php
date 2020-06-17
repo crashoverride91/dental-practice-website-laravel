@@ -23,7 +23,7 @@
 
             <div class="col-3 col-lg-3">
 
-              <img src="https://tokensrecord.com/images/project/1021/lympo_medium.png" class="w-75 rounded">
+              <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/6022/brand.gif?itok=nEdVRiz_" class="w-75 rounded">
               
             </div>
 
