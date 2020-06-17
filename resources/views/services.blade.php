@@ -6,7 +6,7 @@
 
  <!-- Services-->
  <section class="custom-nv3 page-section" id="services">
-    <div class="container-fluid">
+    <div class="container">
         <h2 class="text-center mt-0 text-white py-1 text-uppercase"> Services</h2>
 
         <div class="row text-white py-2 text-white">

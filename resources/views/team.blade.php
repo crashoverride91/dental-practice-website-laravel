@@ -5,7 +5,7 @@
 <!--Team-->
     
 <section class="page-section custom-bg customtx" id="team">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
             <div class="col-12 col-lg-12 my-1">
                 <h2 class=" text-uppercase text-center">The team</h2>

@@ -20,13 +20,13 @@ class FrontendController extends Controller
     public function team(){
 
         $team= [
-            ["name"=>"Sharon", "surname"=>"Stone","role"=>"Manager", "description"=>"Sharon completed specialist training and was added to the GDC specialist list for endodontics in 2005.",  "img"=>" https://www.xing.com/image/b_b_4_96214b6ea_26867716_1/stella-diana-m%C3%BCller-foto.256x256.jpg"],
+            ["name"=>"Sharon", "surname"=>"Stone","role"=>"Manager", "description"=>"Sharon completed specialist training and was added to the GDC specialist list for endodontics in 2005.",  "img"=>"https://oklahomacity.foldsofhonor.org/wp-content/uploads/sites/13/2018/03/male-placeholder.jpg"],
             
-            ["name"=>"Grace", "surname"=>"Kelly", "role"=>"Assistant dentist","description"=>"Grace completed specialist training and was added to the GDC specialist list for endodontics in 2015.", "img"=>" https://www.dentalcaresolutions.it/wp/wp-content/uploads/2015/09/Antonella_conte.jpg"],
+            ["name"=>"Grace", "surname"=>"Kelly", "role"=>"Assistant dentist","description"=>"Grace completed specialist training and was added to the GDC specialist list for endodontics in 2015.", "img"=>"https://oklahomacity.foldsofhonor.org/wp-content/uploads/sites/13/2018/03/male-placeholder.jpg"],
         
-            ["name"=>"Norman", "surname"=>"Osborne","role"=>"Dentist","description"=>"Norman completed specialist training and was added to the GDC specialist list for endodontics in 2007.", "img"=>" https://images.squarespace-cdn.com/content/v1/5b2a2df41137a6414c3883b3/1531819799252-DC8LLIHAX4JP3HNY06Q7/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/derek+1.jpg"],
+            ["name"=>"Norman", "surname"=>"Osborne","role"=>"Dentist","description"=>"Norman completed specialist training and was added to the GDC specialist list for endodontics in 2007.", "img"=>" https://oklahomacity.foldsofhonor.org/wp-content/uploads/sites/13/2018/03/male-placeholder.jpg"],
         
-            ["name"=>"Tracy", "surname"=>"Cole","role"=>"Assistant manager","description"=>"Tracy completed specialist training and was added to the GDC specialist list for endodontics in 2017.", "img"=>" https://www.xing.com/image/b_b_4_96214b6ea_26867716_1/stella-diana-m%C3%BCller-foto.256x256.jpg"]
+            ["name"=>"Tracy", "surname"=>"Cole","role"=>"Assistant manager","description"=>"Tracy completed specialist training and was added to the GDC specialist list for endodontics in 2017.", "img"=>" https://oklahomacity.foldsofhonor.org/wp-content/uploads/sites/13/2018/03/male-placeholder.jpg"]
         
         
         ];
